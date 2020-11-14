@@ -4,13 +4,17 @@ navbar:
   title: "Francesco Valentini - Home Page"                             # CHANGE HERE 
   type: default
   right:
-    - text: "About"    
+    - text: "About" 
+      icon: fa-user
       href: about.html
     - text: "Curriculum Vitae"
+      icon: fa-file-pdf-o
       href: cv_fv_eng.pdf
     - text: "Research & Software"
+      icon: fa-archive
       href: research.html
     - text: "Contact me"
+      icon: fa-envelope
       href: contact.html
 output:
   html_document:
