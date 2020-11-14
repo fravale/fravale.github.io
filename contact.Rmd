@@ -1,0 +1,21 @@
+---
+title: "Contact me"
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
+---
+<p>&nbsp;</p>
+
+### Email
+
+##### valentini.f.90@gmail.com
+
+##### f.valentini@pm.univpm.it
+
+
+<p>&nbsp;</p>
+
+### Skype
+
+##### [live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL)

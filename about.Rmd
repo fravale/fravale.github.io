@@ -1,0 +1,41 @@
+---
+title: "About Francesco"
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
+---
+<p>&nbsp;</p>
+
+### **Current Position**
+
+#### **Postdoctoral Fellow** in **Econometrics** (SECS/P-05)
+##### [Department of Economic and Social Sciences](https://www.dises.univpm.it/), [Marche Polytechnic University](https://www.univpm.it/Entra/), Ancona, Italy
+    
+##### Project: “*Conditional inference for discrete panel data models*”
+##### Tutor: Dr. Claudia Pigini
+
+
+
+<p>&nbsp;</p>
+
+### **Research Interests**
+
+##### Binary Panel Data Models
+
+##### Conditional Inference
+
+##### Spatial Econometrics
+
+
+<p>&nbsp;</p>
+
+### **Education**
+
+#### Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/) (2020)
+    
+##### Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
+##### Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/) and Dr. Claudia Pigini
+
+<p>&nbsp;</p>
+#### Master's Degree in Economics and Finance, [Marche Polytechnic University](https://www.univpm.it/Entra/) (2015)
