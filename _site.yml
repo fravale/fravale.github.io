@@ -1,0 +1,18 @@
+name: "Francesco Valentini"                                # CHANGE HERE 
+output_dir: "."
+navbar:
+  title: "Francesco Valentini - Home Page"                             # CHANGE HERE 
+  type: default
+  right:
+    - text: "About"    
+      href: about.html
+    - text: "Curriculum Vitae"
+      href: cv_fv_eng.pdf
+    - text: "Research & Software"
+      href: research.html
+    - text: "Contact me"
+      href: contact.html
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
