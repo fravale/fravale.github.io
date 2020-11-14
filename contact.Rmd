@@ -7,7 +7,7 @@ output:
 ---
 <p>&nbsp;</p>
 
-### Email
+### **Email**
 
 ##### valentini.f.90@gmail.com
 
@@ -16,6 +16,6 @@ output:
 
 <p>&nbsp;</p>
 
-### Skype
+### **Skype**
 
 ##### [live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL)

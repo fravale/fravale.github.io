@@ -14,5 +14,5 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: lumen
+    theme: yeti
     highlight: textmate
