@@ -1,14 +1,10 @@
 ---
-title: ""
+pagetitle: "Home Page"
 output: 
   html_document:
     includes:
       after_body: footer.html
 ---
-
-```{r setup, include=FALSE}
-library(knitr)
-```
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
