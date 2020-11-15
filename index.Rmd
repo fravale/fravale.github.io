@@ -28,5 +28,5 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL) \  [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109) \  [<i class="fa fa-github"></i>](https://github.com/fravale)
+# [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL) \  [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109) \  [<i class="fa fa-github"></i>](https://github.com/fravale)
 

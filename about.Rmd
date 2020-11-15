@@ -21,11 +21,11 @@ output:
 
 ### **Research Interests**
 
-##### Binary Panel Data Models
+#### Binary Panel Data Models
 
-##### Conditional Inference
+#### Conditional Inference
 
-##### Spatial Econometrics
+#### Spatial Econometrics
 
 
 <p>&nbsp;</p>
