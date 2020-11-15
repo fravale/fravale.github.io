@@ -9,16 +9,19 @@ output:
 
 ### **Work in Progress**
 
-#### - **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data** (joint with F. Bartolucci and C. Pigini)
+##### - **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**  
+##### (joint with F. Bartolucci and C. Pigini)
 <p>&nbsp;</p>
 
-#### - **Advances in maximum likelihood estimation of fixed-effects binary panel data models** (joint with F. Bartolucci and C. Pigini)
+##### - **Advances in maximum likelihood estimation of fixed-effects binary panel data models**  
+##### (joint with F. Bartolucci and C. Pigini)
 
 <p>&nbsp;</p>
 
 ### **Conference Proceedings** 
 
-#### - Casoli, C., Pedini, L., & Valentini, F. (2019). [**Spatial models in gretl: the SPM package**](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33). GNU Regression, Econometrics and Time Series Library, 23.
+##### - Casoli, C., Pedini, L., & Valentini, F. (2019). [**Spatial models in gretl: the SPM package**](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33).  
+##### GNU Regression, Econometrics and Time Series Library, 23.
 
 <p>&nbsp;</p>
 ### **Links**
@@ -27,18 +30,21 @@ output:
 #### [Google Scholar](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra)
 
 <p>&nbsp;</p>
+
+
+
+
+### **Software**
+
+
+#### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html): Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data.
+#### [R](https://www.r-project.org/) package, 2020.
+
 <p>&nbsp;</p>
+#### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html): Stata module to estimate Quadratic Exponential models running the cquad R package.  
+#### [Stata](https://www.stata.com/) module, 2020. Also available [here](https://github.com/fravale/cquadr).
 
-
-
-## **Software**
 <p>&nbsp;</p>
-
-#### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html): Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/) package, 2020.
-<p>&nbsp;</p>
-
-#### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html): Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/) module, 2020, also available [here](https://github.com/fravale/cquadr).
-<p>&nbsp;</p>
-
-#### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/) function package, 2019.
+#### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models.  
+#### [gretl](http://gretl.sourceforge.net/) function package, 2019.
 

@@ -1,7 +1,7 @@
 name: "Francesco Valentini"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Francesco Valentini - Home Page"                             # CHANGE HERE 
+  title: "Francesco Valentini"
   type: default
   right:
     - text: "About" 

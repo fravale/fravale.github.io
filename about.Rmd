@@ -34,7 +34,7 @@ output:
 
 #### Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/) (2020)
     
-##### Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
+#####  Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
 ##### Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/) and Dr. Claudia Pigini
 
 <p>&nbsp;</p>

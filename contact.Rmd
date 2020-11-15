@@ -5,9 +5,16 @@ output:
     includes:
       after_body: footer.html
 ---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+
+
 <p>&nbsp;</p>
 
-### **Email**
+### **Email** <i class="fa fa-envelope"></i>
 
 ##### valentini.f.90@gmail.com
 
@@ -16,6 +23,6 @@ output:
 
 <p>&nbsp;</p>
 
-### **Skype**
+### **Skype** <i class="fa fa-skype"></i>
 
 ##### [live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL)
