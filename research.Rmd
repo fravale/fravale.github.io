@@ -9,24 +9,18 @@ output:
 
 ### **Work in Progress**
 
-* #### **Partial effects estimation for fixed-effects logit panel data models**  
-(joint with F. Bartolucci and C. Pigini)
+* #### **Partial effects estimation for fixed-effects logit panel data models** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font>
 
-<p>&nbsp;</p>
-* #### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**  
-(joint with F. Bartolucci and C. Pigini)
 
-<p>&nbsp;</p>
-* #### **Advances in maximum likelihood estimation of fixed-effects binary panel data models**  
-(joint with F. Bartolucci and C. Pigini)
+* #### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font> 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-### **Conference Proceedings** 
 
-* #### Casoli, C., Pedini, L., & Valentini, F. (2019). [**Spatial models in gretl: the SPM package**](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33). GNU Regression, Econometrics and Time Series Library, 23.
 
-<p>&nbsp;</p>
+
+* #### **Advances in maximum likelihood estimation of fixed-effects binary panel data models** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font>
+
+
+
 <p>&nbsp;</p>
 ### **Links**
 
@@ -37,9 +31,7 @@ output:
 
 
 
-
 ### **Software**
-
 
 * #### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html): Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/) package, 2020.
 
@@ -47,3 +39,10 @@ output:
 
 * #### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/) function package, 2019.
 
+<p>&nbsp;</p>
+
+
+
+### **Conference Proceedings** 
+
+* #### Casoli, C., Pedini, L., & Valentini, F. (2019). [**Spatial models in gretl: the SPM package**](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33). GNU Regression, Econometrics and Time Series Library, 23.
