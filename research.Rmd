@@ -9,6 +9,9 @@ output:
 
 ### **Work in Progress**
 
+* #### **Partial effects estimation for fixed-effects logit panel data models** (joint with F. Bartolucci and C. Pigini)
+
+
 * #### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data** (joint with F. Bartolucci and C. Pigini)
 
 
