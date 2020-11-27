@@ -9,7 +9,7 @@ output:
 
 ### **Current Position**
 
-#### **Postdoctoral Fellow** in **Econometrics** (SECS/P-05)
+#### **Research Fellow** in **Econometrics** (SECS/P-05)
 ##### [Department of Economic and Social Sciences](https://www.dises.univpm.it/), [Marche Polytechnic University](https://www.univpm.it/Entra/), Ancona, Italy
     
 ##### Project: “*Conditional inference for discrete panel data models*”
