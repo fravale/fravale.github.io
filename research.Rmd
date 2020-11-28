@@ -5,15 +5,17 @@ output:
     includes:
       after_body: footer.html
 ---
+<link rel="stylesheet" href="site_libs/academicons/css/academicons.min.css"/>
+
 <p>&nbsp;</p>
 
 ### **Work in Progress**
 
-* #### **Partial effects estimation for fixed-effects logit panel data models** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font>
+* #### **Partial effects estimation for fixed-effects logit panel data models** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font>  
 
 
-* #### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font> 
 
+* #### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data** <font size="3"> (joint with F. Bartolucci and C. Pigini) </font>  
 
 
 
@@ -24,8 +26,9 @@ output:
 <p>&nbsp;</p>
 ### **Links**
 
-* #### [IDEAS/RePEc](https://ideas.repec.org/f/pva895.html)
-* #### [Google Scholar](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra)
+* #### [Google Scholar](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra) <i class="ai ai-google-scholar"></i>
+* #### [IDEAS/RePEc](https://ideas.repec.org/f/pva895.html) <i class="ai ai-ideas-repec"></i>
+
 
 <p>&nbsp;</p>
 

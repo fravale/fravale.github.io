@@ -6,6 +6,8 @@ output:
       after_body: footer.html
 ---
 
+<link rel="stylesheet" href="site_libs/academicons/css/academicons.min.css"/>
+
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
@@ -28,5 +30,5 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-# [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL) \  [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109) \  [<i class="fa fa-github"></i>](https://github.com/fravale)
+# [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL)  \ [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra) \ [<i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html) \ [<i class="fa fa-github"></i>](https://github.com/fravale)
 
