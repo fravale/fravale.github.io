@@ -1,4 +1,4 @@
-name: "Francesco Valentini"                                # CHANGE HERE 
+name: "Francesco Valentini"             
 output_dir: "."
 navbar:
   title: "Francesco Valentini"
@@ -20,3 +20,4 @@ output:
   html_document:
     theme: yeti
     highlight: textmate
+  

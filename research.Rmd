@@ -5,7 +5,6 @@ output:
     includes:
       after_body: footer.html
 ---
-<link rel="stylesheet" href="site_libs/academicons/css/academicons.min.css"/>
 
 <p>&nbsp;</p>
 
