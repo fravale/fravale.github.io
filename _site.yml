@@ -18,6 +18,7 @@ navbar:
       href: contact.html
 output:
   html_document:
+    anchor_sections: false
     theme: yeti
     highlight: textmate
   
