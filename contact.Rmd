@@ -10,7 +10,7 @@ output:
 
 <p>&nbsp;</p>
 
-### **Email** <i class="fa fa-envelope"></i>
+### **Email** <i class="fa fa-envelope"></i> 
 
 #### valentini.f.90@gmail.com
 
