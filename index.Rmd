@@ -11,7 +11,7 @@ output:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <center>
-![Francesco](me.png){#id .class width=30% height=30%}
+![](me.png){#id .class width=30% height=30%}
 <center>
 <p>&nbsp;</p>
 <center>
