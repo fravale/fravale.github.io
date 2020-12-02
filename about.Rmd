@@ -10,7 +10,7 @@ output:
 ### **Current Position**
 
 #### **Research Fellow** in **Econometrics** (SECS/P-05)
-##### [Department of Economic and Social Sciences](https://www.dises.univpm.it/), [Marche Polytechnic University](https://www.univpm.it/Entra/), Ancona, Italy
+##### [Department of Economic and Social Sciences](https://www.dises.univpm.it/){target="_blank"}, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"}, Ancona, Italy
     
 ##### Project: “*Conditional inference for discrete panel data models*”
 ##### Tutor: Dr. Claudia Pigini
@@ -32,10 +32,10 @@ output:
 
 ### **Education**
 
-#### Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/) (2020)
+#### Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"} (2020)
     
 #####  Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
-##### Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/) and Dr. Claudia Pigini
+##### Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/){target="_blank"} and Dr. Claudia Pigini
 
 <p>&nbsp;</p>
-#### Master's Degree in Economics and Finance, [Marche Polytechnic University](https://www.univpm.it/Entra/) (2015)
+#### Master's Degree in Economics and Finance, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"} (2015)
