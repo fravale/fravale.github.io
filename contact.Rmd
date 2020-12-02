@@ -31,5 +31,5 @@ output:
 #### Università Politecnica delle Marche,
 #### Facoltà di Economia “G. Fuà”,
 #### Dipartimento di Scienze Economiche e Sociali,
-#### [Piazzale R. Martelli 8, 60121, Ancona, Italy](https://www.google.com/maps/d/embed?mid=1t0Rc_iKYw28DIsg6xOs2AmhKPu8&msa=0&ie=UTF8&ll=43.61994257739549%2C13.517769639349675&spn=0.017211%2C0.035191&t=h&output=embed&z=18){target="_blank"} 
+#### [Piazzale R. Martelli 8, 60121, Ancona, Italy](https://goo.gl/maps/iDmPpE5DYWxUbGJN6){target="_blank"} 
 ![](01Piazzale.jpg){#id .class width=30% height=30%}
