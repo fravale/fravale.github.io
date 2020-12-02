@@ -25,8 +25,8 @@ output:
 <p>&nbsp;</p>
 ### **Links**
 
-* #### [Google Scholar](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra) <i class="ai ai-google-scholar"></i>
-* #### [IDEAS/RePEc](https://ideas.repec.org/f/pva895.html) <i class="ai ai-ideas-repec"></i>
+* #### [Google Scholar](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} <i class="ai ai-google-scholar"></i>
+* #### [IDEAS/RePEc](https://ideas.repec.org/f/pva895.html){target="_blank"} <i class="ai ai-ideas-repec"></i>
 
 
 <p>&nbsp;</p>
@@ -35,16 +35,8 @@ output:
 
 ### **Software**
 
-* #### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html): Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/) package, 2020.
+* #### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html){target="_blank"}: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/){target="_blank"} package, 2020.
 
-* #### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html): Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/) module, 2020. Also available [here](https://github.com/fravale/cquadr).
+* #### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module, 2020. [User Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository. 
 
-* #### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/) function package, 2019.
-
-<p>&nbsp;</p>
-
-
-
-### **Conference Proceedings** 
-
-* #### Casoli, C., Pedini, L., & Valentini, F. (2019). [**Spatial models in gretl: the SPM package**](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33). GNU Regression, Econometrics and Time Series Library, 23.
+* #### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip){target="_blank"}: Spatial Regression Models. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package, 2019. A related [article](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33){target="_blank"} and [documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/spm.pdf){target="_blank"} are available.
