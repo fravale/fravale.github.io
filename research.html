@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -24,15 +24,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -94,6 +85,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -242,7 +234,6 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -254,6 +245,18 @@ $(document).ready(function () {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -336,6 +339,7 @@ $(document).ready(function () {
 <li><h4 id="partial-effects-estimation-for-fixed-effects-logit-panel-data-models-joint-with-f.-bartolucci-and-c.-pigini"><strong>Partial effects estimation for fixed-effects logit panel data models</strong> <font size="3"> (joint with F. Bartolucci and C. Pigini) </font></h4></li>
 <li><h4 id="recursive-computation-of-the-conditional-probability-function-of-the-quadratic-exponential-model-for-binary-panel-data-joint-with-f.-bartolucci-and-c.-pigini"><strong>Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data</strong> <font size="3"> (joint with F. Bartolucci and C. Pigini) </font></h4></li>
 <li><h4 id="advances-in-maximum-likelihood-estimation-of-fixed-effects-binary-panel-data-models-joint-with-f.-bartolucci-and-c.-pigini"><strong>Advances in maximum likelihood estimation of fixed-effects binary panel data models</strong> <font size="3"> (joint with F. Bartolucci and C. Pigini) </font></h4></li>
+<li><h4 id="do-covid-19-mobility-restrictions-affect-economic-uncertainty-in-italy-evidences-from-a-svar-approach-joint-with-c.casoli-and-l.pedini"><strong>Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach</strong> <font size="3"> (joint with C.Casoli and L.Pedini) </font></h4></li>
 </ul>
 <p>
  
@@ -378,7 +382,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -386,23 +390,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

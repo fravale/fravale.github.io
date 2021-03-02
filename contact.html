@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -24,15 +24,6 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-
-<style type="text/css">
-  code{white-space: pre-wrap;}
-  span.smallcaps{font-variant: small-caps;}
-  span.underline{text-decoration: underline;}
-  div.column{display: inline-block; vertical-align: top; width: 50%;}
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-  ul.task-list{list-style: none;}
-    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -94,6 +85,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -242,7 +234,6 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -254,6 +245,18 @@ $(document).ready(function () {
   display: none;
 }
 </style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
 
 <!-- code folding -->
 
@@ -333,10 +336,10 @@ $(document).ready(function () {
 <div id="email" class="section level3">
 <h3><strong>Email</strong> <i class="fa fa-envelope"></i></h3>
 <div id="valentini.f.90gmail.com" class="section level4">
-<h4><a href="mailto:valentini.f.90@gmail.com" class="email">valentini.f.90@gmail.com</a></h4>
+<h4><a href="mailto:valentini.f.90@gmail.com">valentini.f.90@gmail.com</a></h4>
 </div>
 <div id="f.valentinipm.univpm.it" class="section level4">
-<h4><a href="mailto:f.valentini@pm.univpm.it" class="email">f.valentini@pm.univpm.it</a></h4>
+<h4><a href="mailto:f.valentini@pm.univpm.it">f.valentini@pm.univpm.it</a></h4>
 <p>
  
 </p>
@@ -353,10 +356,10 @@ $(document).ready(function () {
 </div>
 <div id="address" class="section level3">
 <h3><strong>Address</strong> <i class="fa fa-address-card"></i></h3>
-<div id="università-politecnica-delle-marche" class="section level4">
+<div id="universita-politecnica-delle-marche" class="section level4">
 <h4>Università Politecnica delle Marche,</h4>
 </div>
-<div id="facoltà-di-economia-g.-fuà" class="section level4">
+<div id="facolta-di-economia-g.-fua" class="section level4">
 <h4>Facoltà di Economia “G. Fuà”,</h4>
 </div>
 <div id="dipartimento-di-scienze-economiche-e-sociali" class="section level4">
@@ -364,7 +367,10 @@ $(document).ready(function () {
 </div>
 <div id="piazzale-r.-martelli-8-60121-ancona-italy" class="section level4">
 <h4><a href="https://goo.gl/maps/iDmPpE5DYWxUbGJN6" target="_blank">Piazzale R. Martelli 8, 60121, Ancona, Italy</a></h4>
-<p><img src="01Piazzale.jpg" id="id" class="class" style="width:30.0%;height:30.0%" /></p>
+<div class="figure">
+<img src="01Piazzale.jpg" id="id" class="class" style="width:30.0%" style="height:30.0%" />
+
+</div>
 </div>
 </div>
 
@@ -386,7 +392,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -394,23 +400,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
