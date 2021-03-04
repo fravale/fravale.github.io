@@ -22,7 +22,7 @@ output:
 
 
 
-* #### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach** <font size="3"> (joint with C.Casoli and L.Pedini) </font>
+* #### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach** <font size="3"> (joint with C. Casoli and L. Pedini) </font>
 
 
 
