@@ -8,23 +8,24 @@ output:
 
 <p>&nbsp;</p>
 
-### **Work in Progress**
+### **Work in Progress** [* in Review]
 
-* #### **Partial effects estimation for fixed-effects logit panel data models** <font size="3"> (joint with F. Bartolucci and C. Pigini) *  </font>  
-
-
-
-* #### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data** <font size="3"> (joint with F. Bartolucci and C. Pigini) * </font>  
+* ##### **A conditional approach to testing for endogenous sample and self-selection in fixed-effects logit panel data models** (joint with F. Bartolucci and C. Pigini) 
 
 
+* ##### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach** (joint with C. Casoli and L. Pedini) * 
 
-* #### **Advances in maximum likelihood estimation of fixed-effects binary panel data models** <font size="3"> (joint with F. Bartolucci and C. Pigini) * </font>
+
+* ##### **Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**  (joint with F. Bartolucci and C. Pigini) *   
 
 
 
-* #### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach** <font size="3"> (joint with C. Casoli and L. Pedini) * </font>
+* ##### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**  (joint with F. Bartolucci and C. Pigini) *   
 
-#### * [In Review]
+
+
+* ##### **Advances in maximum likelihood estimation of fixed-effects binary panel data models** (joint with F. Bartolucci and C. Pigini) * 
+
 
 <p>&nbsp;</p>
 ### **Links**
