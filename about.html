@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -24,6 +24,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -85,7 +94,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -234,6 +242,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -245,18 +254,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -343,7 +340,7 @@ $(document).ready(function () {
 <div id="project-conditional-inference-for-discrete-panel-data-models" class="section level5">
 <h5>Project: “<em>Conditional inference for discrete panel data models</em>”</h5>
 </div>
-<div id="tutor-dr.claudia-pigini" class="section level5">
+<div id="tutor-dr.-claudia-pigini" class="section level5">
 <h5>Tutor: <a href="https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI" target="_blank">Dr. Claudia Pigini</a></h5>
 <p>
  
@@ -371,12 +368,12 @@ $(document).ready(function () {
 </div>
 <div id="education" class="section level3">
 <h3><strong>Education</strong></h3>
-<div id="ph.d.in-economics-marche-polytechnic-university-2020" class="section level4">
+<div id="ph.d.-in-economics-marche-polytechnic-university-2020" class="section level4">
 <h4>Ph.D. in Economics, <a href="https://www.univpm.it/Entra/" target="_blank">Marche Polytechnic University</a> (2020)</h4>
 <div id="thesis-three-essays-on-the-conditional-inference-approach-for-binary-panel-data-models" class="section level5">
 <h5>Thesis: “<em>Three Essays on the Conditional Inference Approach for Binary Panel Data Models</em>”</h5>
 </div>
-<div id="supervisors-prof.francesco-bartolucci-and-dr.claudia-pigini" class="section level5">
+<div id="supervisors-prof.-francesco-bartolucci-and-dr.-claudia-pigini" class="section level5">
 <h5>Supervisors: <a href="https://sites.google.com/site/bartstatistics/" target="_blank">Prof. Francesco Bartolucci</a> and <a href="https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI" target="_blank">Dr. Claudia Pigini</a></h5>
 <p>
  
@@ -406,7 +403,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -414,6 +411,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
