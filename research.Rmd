@@ -8,7 +8,7 @@ output:
 
 <p>&nbsp;</p>
 
-### **Work in Progress** [* in Review]
+### **Work in Progress**
 
 * ##### **A conditional approach to testing for endogenous sample and self-selection in fixed-effects logit panel data models** (joint with F. Bartolucci and C. Pigini) 
 
@@ -16,15 +16,15 @@ output:
 * ##### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach** (joint with C. Casoli and L. Pedini) 
 
 
-* ##### **Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**  (joint with F. Bartolucci and C. Pigini) *   
+* ##### **Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**  (joint with F. Bartolucci and C. Pigini)    
 
 
 
-* ##### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**  (joint with F. Bartolucci and C. Pigini) *   
+* ##### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**  (joint with F. Bartolucci and C. Pigini)    
 
 
 
-* ##### **Advances in maximum likelihood estimation of fixed-effects binary panel data models** (joint with F. Bartolucci and C. Pigini) * 
+* ##### **Advances in maximum likelihood estimation of fixed-effects binary panel data models** (joint with F. Bartolucci and C. Pigini)  
 
 
 <p>&nbsp;</p>
@@ -40,8 +40,8 @@ output:
 
 ### **Software**
 
-* #### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html){target="_blank"}: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/){target="_blank"} package, 2020.
+* #### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html){target="_blank"}: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/){target="_blank"} package.
 
-* #### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module, 2020. [User's Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository. 
+* #### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module. [User's Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository. 
 
-* #### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package, 2019. A related [article](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33){target="_blank"} and [documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/spm.pdf){target="_blank"} are available.
+* #### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. A related [article](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33){target="_blank"} and [documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/spm.pdf){target="_blank"} are available.
