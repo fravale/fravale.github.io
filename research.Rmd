@@ -13,7 +13,7 @@ output:
 * ##### **A conditional approach to testing for endogenous sample and self-selection in fixed-effects logit panel data models** (joint with F. Bartolucci and C. Pigini) 
 
 
-* ##### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidences from a SVAR approach** (joint with C. Casoli and L. Pedini) 
+* ##### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach** (joint with C. Casoli and L. Pedini) 
 
 
 * ##### **Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**  (joint with F. Bartolucci and C. Pigini)    
