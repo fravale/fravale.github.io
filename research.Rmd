@@ -10,6 +10,8 @@ output:
 
 ### **Work in Progress**
 
+* ##### **Kernel-based Time-Varying IV estimation: handle with care** (joint with R. Lucchetti) 
+
 * ##### **A conditional approach to testing for endogenous sample and self-selection in fixed-effects logit panel data models** (joint with F. Bartolucci and C. Pigini) 
 
 
