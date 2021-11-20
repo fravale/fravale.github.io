@@ -1,51 +1,52 @@
 ---
-title: "Research & Software"
+title:
 output: 
   html_document:
     includes:
       after_body: footer.html
 ---
 
-<p>&nbsp;</p>
-
-### **Work in Progress**
-
-* ##### [**Kernel-based Time-Varying IV estimation: handle with care**](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} (joint with R. Lucchetti) 
-
-* ##### [**MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit**](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} (joint with F. Bartolucci and C. Pigini) 
-
-
-* ##### **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach** (joint with C. Casoli and L. Pedini) 
-
-
-* ##### [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}  (joint with F. Bartolucci and C. Pigini)    
-
-
-
-* ##### **Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**  (joint with F. Bartolucci and C. Pigini)    
-
-
-
-* ##### **Advances in maximum likelihood estimation of fixed-effects binary panel data models** (joint with F. Bartolucci and C. Pigini)  
-
-
-<p>&nbsp;</p>
-### **Links**
-
-* #### [Google Scholar](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} <i class="ai ai-google-scholar"></i>
-* #### [IDEAS/RePEc](https://ideas.repec.org/f/pva895.html){target="_blank"} <i class="ai ai-ideas-repec"></i>
-
 
 <p>&nbsp;</p>
 
+### **Research [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} [ <i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html){target="_blank"} **
 
+
+
+##### ***-  Work in Progress***
+
+* [**Kernel-based Time-Varying IV estimation: handle with care**](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} (joint with R. Lucchetti) 
+
+* [**MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit**](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} (joint with F. Bartolucci and C. Pigini) 
+
+
+* [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}  (joint with F. Bartolucci and C. Pigini)    
+
+<p>&nbsp;</p>
+
+##### ***-  Peer-Reviewed Articles***
+
+* **2021** - [**Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**](https://link.springer.com/article/10.1007/s10614-021-10218-2){target="_blank"}, ***Computational Economics*** (joint with F. Bartolucci and C. Pigini)    
+
+* **(forthcoming)** - **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach**, ***Economics Bulletin*** (joint with C. Casoli and L. Pedini) 
+
+<p>&nbsp;</p>
+
+##### ***-  Books***
+* **forthcoming** - **Advances in maximum likelihood estimation of fixed-effects binary panel data models** in *Trends and Challenges for Categorical Data Analysis*, Springer (joint with F. Bartolucci and C. Pigini)  
+
+<p>&nbsp;</p>
+
+
+<p>&nbsp;</p>
 
 ### **Software**
 
-* #### [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html){target="_blank"}: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/){target="_blank"} package.
 
-* #### [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module. [User's Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository.
+* [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html){target="_blank"}: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/){target="_blank"} package.
 
-* #### [**ketvals**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/ketvals.zip): Kernel-based Time-Varying Least Squares. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/ketvals.pdf){target="_blank"} is available.
+* [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module. [User's Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository.
 
-* #### [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. A related [article](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33){target="_blank"} and [documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/spm.pdf){target="_blank"} are available.
+* [**ketvals**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/ketvals.zip): Kernel-based Time-Varying Least Squares. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/ketvals.pdf){target="_blank"} is available.
+
+* [**spm**](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. A related [article](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33){target="_blank"} and [documentation](http://ricardo.ecn.wfu.edu/gretl/cgi-bin/current_fnfiles/unzipped/spm.pdf){target="_blank"} are available.

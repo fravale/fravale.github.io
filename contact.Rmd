@@ -1,5 +1,5 @@
 ---
-title: "Contact me"
+title: 
 output: 
   html_document:
     includes:
@@ -12,24 +12,28 @@ output:
 
 ### **Email** <i class="fa fa-envelope"></i> 
 
-#### valentini.f.90@gmail.com
+valentini.f.90@gmail.com
 
-#### f.valentini@pm.univpm.it
+f.valentini@univpm.it
 
 
 <p>&nbsp;</p>
 
 ### **Skype** <i class="fa fa-skype"></i>
 
-#### [live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}
+[live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}
 
 
 <p>&nbsp;</p>
 
 ### **Address** <i class="fa fa-address-card"></i> 
 
-#### Università Politecnica delle Marche,
-#### Facoltà di Economia “G. Fuà”,
-#### Dipartimento di Scienze Economiche e Sociali,
-#### [Piazzale R. Martelli 8, 60121, Ancona, Italy](https://goo.gl/maps/iDmPpE5DYWxUbGJN6){target="_blank"} 
+Università Politecnica delle Marche,
+
+Facoltà di Economia “G. Fuà”,
+
+Dipartimento di Scienze Economiche e Sociali,
+
+[Piazzale R. Martelli 8, 60121, Ancona, Italy](https://goo.gl/maps/iDmPpE5DYWxUbGJN6){target="_blank"} 
+
 ![](01Piazzale.jpg){#id .class width=30% height=30%}

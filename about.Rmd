@@ -1,5 +1,5 @@
 ---
-title: "About Francesco"
+title:
 output: 
   html_document:
     includes:
@@ -9,11 +9,12 @@ output:
 
 ### **Current Position**
 
-#### **Research Fellow** in **Econometrics** (SECS/P-05)
-##### [Department of Economic and Social Sciences](https://www.dises.univpm.it/){target="_blank"}, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"}, Ancona, Italy
+##### **Research Fellow** in **Econometrics** (SECS/P-05)
+[Department of Economic and Social Sciences](https://www.dises.univpm.it/){target="_blank"}, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"}, Ancona, Italy
     
-##### Project: “*Conditional inference for discrete panel data models*”
-##### Tutor: [Dr. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
+Project: “*Conditional inference for discrete panel data models*”
+
+Tutor: [Dr. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
 
 
 
@@ -21,22 +22,21 @@ output:
 
 ### **Research Interests**
 
-#### Binary Panel Data Models
+Binary Panel Data Models
 
-#### Conditional Inference
+Conditional Inference
 
-#### Time Series Econometrics
+Time Series Econometrics
 
-#### Spatial Econometrics
+Spatial Econometrics
 
 <p>&nbsp;</p>
 
 ### **Education**
 
-#### Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"} (2020)
+Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"} (2020)
     
-#####  Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
-##### Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/){target="_blank"} and [Dr. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
+Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
+ 
+Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/){target="_blank"} and [Dr. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
 
-<p>&nbsp;</p>
-#### Master's Degree in Economics and Finance, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"} (2015)
