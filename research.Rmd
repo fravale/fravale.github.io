@@ -33,7 +33,7 @@ output:
 <p>&nbsp;</p>
 
 ##### ***-  Books***
-* **forthcoming** - **Advances in maximum likelihood estimation of fixed-effects binary panel data models** in *Trends and Challenges for Categorical Data Analysis*, Springer (joint with F. Bartolucci and C. Pigini)  
+* **(forthcoming)** - **Advances in maximum likelihood estimation of fixed-effects binary panel data models** in *Trends and Challenges for Categorical Data Analysis*, Springer (joint with F. Bartolucci and C. Pigini)  
 
 <p>&nbsp;</p>
 
