@@ -28,7 +28,7 @@ output:
 
 * **2021** - [**Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**](https://link.springer.com/article/10.1007/s10614-021-10218-2){target="_blank"}, ***Computational Economics*** (joint with F. Bartolucci and C. Pigini)    
 
-* **(forthcoming)** - **Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach**, ***Economics Bulletin*** (joint with C. Casoli and L. Pedini) 
+* **2021** - [**Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach**](http://www.accessecon.com/pubs/eb/default.aspx?topic=Abstract&PaperID=EB-21-00637){target="_blank"}, ***Economics Bulletin*** (joint with C. Casoli and L. Pedini) [*[Download]*](http://www.accessecon.com/Pubs/EB/2021/Volume0/EB-21-V0-I0-P209.pdf){target="_blank"}
 
 <p>&nbsp;</p>
 
