@@ -14,7 +14,7 @@ output:
     
 Project: “*Conditional inference for discrete panel data models*”
 
-Tutor: [Dr. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
+Tutor: [Prof. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
 
 
 
@@ -38,5 +38,5 @@ Ph.D. in Economics, [Marche Polytechnic University](https://www.univpm.it/Entra/
     
 Thesis: “*Three Essays on the Conditional Inference Approach for Binary Panel Data Models*”
  
-Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/){target="_blank"} and [Dr. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
+Supervisors: [Prof. Francesco Bartolucci](https://sites.google.com/site/bartstatistics/){target="_blank"} and [Prof. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
 
