@@ -20,7 +20,9 @@ output:
 * [**MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit**](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} (joint with F. Bartolucci and C. Pigini) 
 
 
-* [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}  (joint with F. Bartolucci and C. Pigini)    
+* [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}  (joint with F. Bartolucci and C. Pigini)
+
+* **Monetization and fiscal expansions: The Italian fiscal multiplier, 1872-2006** (joint with M. Fratianni, F.Giri and R. Lucchetti) 
 
 <p>&nbsp;</p>
 
