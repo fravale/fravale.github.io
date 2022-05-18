@@ -9,7 +9,7 @@ navbar:
       href: about.html
     - text: "Curriculum Vitae"
       icon: fa-file-pdf-o
-      href: cv_fv_eng.pdf
+      href: CV.html
     - text: "Research & Software"
       icon: fa-archive
       href: research.html
