@@ -7,7 +7,7 @@ output:
 ---
 <p>&nbsp;</p>
 
-### **Current Position**
+### **Past Positions**
 
 ##### **Research Fellow** in **Econometrics** (SECS/P-05)
 [Department of Economic and Social Sciences](https://www.dises.univpm.it/){target="_blank"}, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"}, Ancona, Italy
@@ -16,6 +16,7 @@ Project: “*Conditional inference for discrete panel data models*”
 
 Tutor: [Prof. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
 
+01/06/2020 - 31/05/2022
 
 
 <p>&nbsp;</p>
