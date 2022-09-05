@@ -1,0 +1,42 @@
+---
+title: 
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
+---
+
+
+
+<p>&nbsp;</p>
+
+### **Teaching activity, A.Y. 2022/2023** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
+
+##### ***-  Teaching assistant***
+* “Economia Politica I” (Microeconomics),
+Bachelor’s Degree in Economics and Business, Marche Polytechnic University
+
+* “Microeconometrics”
+(coordinator: [Prof. Matteo Picchio](https://sites.google.com/site/matteopicchio/){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University
+* “Time Series Econometrics”
+(coordinator: [Prof. Giulio Palomba](http://utenti.dises.univpm.it/palomba/){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University
+
+<p>&nbsp;</p>
+
+
+
+### ***Theses supervision***
+$*$ = work in progress
+
+
+
+<table>
+
+Year       Candidate            Title                                                   Degree  Supervisor         Co-Supervisor
+---------  ------------------   -----------------------------------------------------   ------- -----------------  -------------------
+2022/2023* Matteo Capriotti     (TBA)                                                   Master  Federico Giri      Francesco Valentini
+2021/2022* Giovanni Ferretti    Sistemi di allerta precoce per crisi finanziarie        Master  Claudia Pigini     Francesco Valentini
+
+</table>
+
+

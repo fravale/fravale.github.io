@@ -13,6 +13,9 @@ navbar:
     - text: "Research & Software"
       icon: fa-archive
       href: research.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher
+      href: teaching.html
     - text: "Contact me"
       icon: fa-envelope
       href: contact.html

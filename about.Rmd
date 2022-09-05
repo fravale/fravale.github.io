@@ -25,7 +25,7 @@ Starting date: September 1, 2022
 
 ### **Research Interests**
 
-Binary Panel Data Models - Conditional Inference - Time Series Econometrics - Spatial Econometrics
+Microeconometrics - Discrete Panel Data - Time Series - Spatial Econometrics
 
 <p>&nbsp;</p>
 
