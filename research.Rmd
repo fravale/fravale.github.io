@@ -23,12 +23,14 @@ output:
 
 * [**Monetization, wars, and the Italian fiscal multiplier**](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (joint with M. Fratianni, F.Giri and R. Lucchetti) 
 
-* [**Testing for state dependence in the fixed-effects
-ordered logit model**](https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf){target="_blank"} (joint with F. Bartolucci and C. Pigini)
 
 <p>&nbsp;</p>
 
 ##### ***-  Peer-Reviewed Articles***
+* **(forthcoming)** **Testing for state dependence in the fixed-effects
+ordered logit model**, ***Economics Letters*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf){target="_blank"}
+
+
 * **(forthcoming)** - **Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**,  ***Empirical Economics*** (joint with F. Bartolucci and C. Pigini) [*[Replication material]*](https://github.com/fravale/replication_ape_logit){target="_blank"} [*[Working Paper]*](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}
 
 * **2021** - [**Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**](https://link.springer.com/article/10.1007/s10614-021-10218-2){target="_blank"}, ***Computational Economics*** (joint with F. Bartolucci and C. Pigini)    
