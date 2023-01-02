@@ -11,14 +11,9 @@ output:
 
 ### **Current Position**
 
-##### **Research Fellow** in **Econometrics** (SECS/P-05)
+##### **Junior Assistant Professor** of **Statistics** (SECS-S/01)
 [Department of Economic and Social Sciences](https://www.dises.univpm.it/){target="_blank"}, [Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"}, Ancona, Italy
     
-Project: “*Panel data models and machine learning methods for the Green Innovators’ performance evaluation*”
-
-Tutor: [Prof. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}
-
-Starting date: September 1, 2022
 
 
 <p>&nbsp;</p>

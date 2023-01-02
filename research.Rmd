@@ -27,13 +27,13 @@ output:
 <p>&nbsp;</p>
 
 ##### ***-  Peer-Reviewed Articles***
-* **(forthcoming)** **Testing for state dependence in the fixed-effects
-ordered logit model**, ***Economics Letters*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf){target="_blank"}
+* **2022** [**Testing for state dependence in the fixed-effects
+ordered logit model**](https://doi.org/10.1016/j.econlet.2022.110964){target="_blank"}, ***Economics Letters*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf){target="_blank"}
 
 
-* **2022** - [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://link.springer.com/article/10.1007/s00181-022-02313-6){target="_blank"},  ***Empirical Economics*** (joint with F. Bartolucci and C. Pigini) [*[Replication material]*](https://github.com/fravale/replication_ape_logit){target="_blank"} [*[Working Paper]*](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}
+* **2022** - [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://doi.org/10.1007/s00181-022-02313-6){target="_blank"},  ***Empirical Economics*** (joint with F. Bartolucci and C. Pigini) [*[Replication material]*](https://github.com/fravale/replication_ape_logit){target="_blank"} [*[Working Paper]*](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}
 
-* **2021** - [**Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**](https://link.springer.com/article/10.1007/s10614-021-10218-2){target="_blank"}, ***Computational Economics*** (joint with F. Bartolucci and C. Pigini)    
+* **2021** - [**Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**](https://doi.org/10.1007/s10614-021-10218-2){target="_blank"}, ***Computational Economics*** (joint with F. Bartolucci and C. Pigini)    
 
 * **2021** - [**Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach**](http://www.accessecon.com/pubs/eb/default.aspx?topic=Abstract&PaperID=EB-21-00637){target="_blank"}, ***Economics Bulletin*** (joint with C. Casoli and L. Pedini) [*[Download]*](http://www.accessecon.com/Pubs/EB/2021/Volume41/EB-21-V41-I4-P209.pdf){target="_blank"}
 
