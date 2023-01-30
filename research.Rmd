@@ -23,6 +23,9 @@ output:
 
 * [**Monetization, wars, and the Italian fiscal multiplier**](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (joint with M. Fratianni, F.Giri and R. Lucchetti) 
 
+* **Estimation of fixed-effects logit models for networks with reciprocity** (joint with F. Bartolucci and C. Pigini)
+
+* **Persistence in the R&D intensity of top innovators**  (joint with C. Pigini and A. Sterlacchini)
 
 <p>&nbsp;</p>
 

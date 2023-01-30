@@ -6,9 +6,38 @@ output:
       after_body: footer.html
 ---
 
-
-
 <p>&nbsp;</p>
+
+
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+
+<div class="row">
+  <div class="column">
 
 ### **Email** <i class="fa fa-envelope"></i> 
 
@@ -19,12 +48,49 @@ f.valentini@univpm.it
 
 <p>&nbsp;</p>
 
-### **Skype** <i class="fa fa-skype"></i>
 
-[live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}
+  </div>
+  <div class="column" >
+
+### **Phone** <i class="fa fa-phone-square"></i> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp; &nbsp;&nbsp; **Skype** <i class="fa fa-skype"></i>
+
++39 071 220 7239
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [live:valentini.f.90](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}
+
+  </div>
+
+</div>
+
+</body>
+</html>
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
 
 
-<p>&nbsp;</p>
+<div class="row">
+  <div class="column">
 
 ### **Address** <i class="fa fa-address-card"></i> 
 
@@ -36,4 +102,25 @@ Dipartimento di Scienze Economiche e Sociali,
 
 [Piazzale R. Martelli 8, 60121, Ancona, Italy](https://goo.gl/maps/iDmPpE5DYWxUbGJN6){target="_blank"} 
 
-![](01Piazzale.jpg){#id .class width=30% height=30%}
+
+  </div>
+  <div class="column" >
+<p>&nbsp;</p>
+   ![](01Piazzale.jpg){#id .class width=50% height=50%}
+  </div>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

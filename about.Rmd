@@ -20,7 +20,7 @@ output:
 
 ### **Research Interests**
 
-Microeconometrics - Discrete Panel Data - Time Series - Spatial Econometrics
+Discrete Panel Data, Network Econometrics, Microeconometrics, Time Series, Spatial Econometrics
 
 <p>&nbsp;</p>
 
