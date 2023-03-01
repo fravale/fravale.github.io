@@ -26,7 +26,7 @@ Bachelor’s Degree in Economics and Business, Marche Polytechnic University
 
 
 ### ***Theses supervision***
-$*$ = work in progress
+<!-- $*$ = work in progress -->
 
 
 
@@ -34,7 +34,7 @@ $*$ = work in progress
 
 Year       Candidate            Title                                                                          Degree  Supervisor         Co-Supervisor
 ---------  ------------------   ----------------------------------------------------------------------------   ------- -----------------  -------------------
-2021/2022* Matteo Capriotti     La curva di Phillips dell'Eurozona: una stima semiparametrica time-varying     Master  Federico Giri      Francesco Valentini
+2021/2022  Matteo Capriotti     La curva di Phillips dell'Eurozona: una stima semiparametrica time-varying     Master  Federico Giri      Francesco Valentini
 2021/2022  Giovanni Ferretti    Sistemi di allerta precoce per crisi finanziarie                               Master  Claudia Pigini     Francesco Valentini
 
 </table>
