@@ -15,13 +15,11 @@ output:
 
 ##### ***-  Work in Progress***
 
-* [**Kernel-based Time-Varying IV estimation: handle with care**](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} (joint with R. Lucchetti) 
-
 
 * [**Monetization, wars, and the Italian fiscal multiplier**](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (joint with M. Fratianni, F.Giri and R. Lucchetti) 
 
 
-* **Persistence in the R&D intensity of top innovators**  (joint with C. Pigini and A. Sterlacchini)
+* [**Persistence of R&D intensities in the world’s top investors in R&D**](http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf){target="_blank"} (joint with C. Pigini and A. Sterlacchini)
 
 
 * **Specification testing with Grouped Fixed Effects** (joint with C. Pigini and A. Pionati)
@@ -32,6 +30,8 @@ output:
 <p>&nbsp;</p>
 
 ##### ***-  Peer-Reviewed Articles***
+
+* **(forthcoming)** - **Kernel-based Time-Varying IV estimation: handle with care**, ***Empirical Economics*** (joint with R. Lucchetti) [*[Replication material]*](https://github.com/fravale/replication_gkm){target="_blank"} [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} 
 
 * **(forthcoming)** -  **MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit**, ***Econometric Reviews*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} 
 

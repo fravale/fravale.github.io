@@ -13,7 +13,8 @@
 
 <title>research.knit</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -31,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -61,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -81,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -138,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -171,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -180,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -297,15 +299,27 @@ $(document).ready(function () {
  
 </p>
 <div id="research" class="section level3">
-<h3><strong>Research <a href="https://scholar.google.com/citations?user=9AqXyqQAAAAJ&amp;hl=it&amp;oi=sra" target="_blank"><i class="ai ai-google-scholar"></i></a> <a href="https://ideas.repec.org/f/pva895.html" target="_blank"><i class="ai ai-ideas-repec"></i></a> </strong></h3>
+<h3><strong>Research <a
+href="https://scholar.google.com/citations?user=9AqXyqQAAAAJ&amp;hl=it&amp;oi=sra"
+target="_blank"><i class="ai ai-google-scholar"></i></a> <a
+href="https://ideas.repec.org/f/pva895.html"
+target="_blank"><i class="ai ai-ideas-repec"></i></a> </strong></h3>
 <div id="work-in-progress" class="section level5">
 <h5><strong><em>- Work in Progress</em></strong></h5>
 <ul>
-<li><p><a href="https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf" target="_blank"><strong>Kernel-based Time-Varying IV estimation: handle with care</strong></a> (joint with R. Lucchetti)</p></li>
-<li><p><a href="http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf" target="_blank"><strong>Monetization, wars, and the Italian fiscal multiplier</strong></a> (joint with M. Fratianni, F.Giri and R. Lucchetti)</p></li>
-<li><p><strong>Persistence in the R&amp;D intensity of top innovators</strong> (joint with C. Pigini and A. Sterlacchini)</p></li>
-<li><p><strong>Specification testing with Grouped Fixed Effects</strong> (joint with C. Pigini and A. Pionati)</p></li>
-<li><p><strong>Testing for dependence in pairs of binary outcomes by an approximating logit model</strong></p></li>
+<li><p><a
+href="http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf"
+target="_blank"><strong>Monetization, wars, and the Italian fiscal
+multiplier</strong></a> (joint with M. Fratianni, F.Giri and R.
+Lucchetti)</p></li>
+<li><p><a href="http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf"
+target="_blank"><strong>Persistence of R&amp;D intensities in the
+world’s top investors in R&amp;D</strong></a> (joint with C. Pigini and
+A. Sterlacchini)</p></li>
+<li><p><strong>Specification testing with Grouped Fixed Effects</strong>
+(joint with C. Pigini and A. Pionati)</p></li>
+<li><p><strong>Testing for dependence in pairs of binary outcomes by an
+approximating logit model</strong></p></li>
 </ul>
 <p>
  
@@ -314,11 +328,50 @@ $(document).ready(function () {
 <div id="peer-reviewed-articles" class="section level5">
 <h5><strong><em>- Peer-Reviewed Articles</em></strong></h5>
 <ul>
-<li><p><strong>(forthcoming)</strong> - <strong>MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit</strong>, <strong><em>Econometric Reviews</em></strong> (joint with F. Bartolucci and C. Pigini) <a href="https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf" target="_blank"><em>[Working paper]</em></a></p></li>
-<li><p><strong>2022</strong> - <a href="https://doi.org/10.1016/j.econlet.2022.110964" target="_blank"><strong>Testing for state dependence in the fixed-effects ordered logit model</strong></a>, <strong><em>Economics Letters</em></strong> (joint with F. Bartolucci and C. Pigini) <a href="https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf" target="_blank"><em>[Working paper]</em></a></p></li>
-<li><p><strong>2022</strong> - <a href="https://doi.org/10.1007/s00181-022-02313-6" target="_blank"><strong>Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models</strong></a>, <strong><em>Empirical Economics</em></strong> (joint with F. Bartolucci and C. Pigini) <a href="https://github.com/fravale/replication_ape_logit" target="_blank"><em>[Replication material]</em></a> <a href="https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf" target="_blank"><em>[Working Paper]</em></a></p></li>
-<li><p><strong>2021</strong> - <a href="https://doi.org/10.1007/s10614-021-10218-2" target="_blank"><strong>Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data</strong></a>, <strong><em>Computational Economics</em></strong> (joint with F. Bartolucci and C. Pigini)</p></li>
-<li><p><strong>2021</strong> - <a href="http://www.accessecon.com/pubs/eb/default.aspx?topic=Abstract&amp;PaperID=EB-21-00637" target="_blank"><strong>Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach</strong></a>, <strong><em>Economics Bulletin</em></strong> (joint with C. Casoli and L. Pedini) <a href="http://www.accessecon.com/Pubs/EB/2021/Volume41/EB-21-V41-I4-P209.pdf" target="_blank"><em>[Download]</em></a></p></li>
+<li><p><strong>(forthcoming)</strong> - <strong>Kernel-based
+Time-Varying IV estimation: handle with care</strong>,
+<strong><em>Empirical Economics</em></strong> (joint with R. Lucchetti)
+<a href="https://github.com/fravale/replication_gkm"
+target="_blank"><em>[Replication material]</em></a> <a
+href="https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf"
+target="_blank"><em>[Working paper]</em></a></p></li>
+<li><p><strong>(forthcoming)</strong> - <strong>MCMC Conditional Maximum
+Likelihood for the two-way fixed-effects logit</strong>,
+<strong><em>Econometric Reviews</em></strong> (joint with F. Bartolucci
+and C. Pigini) <a
+href="https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf"
+target="_blank"><em>[Working paper]</em></a></p></li>
+<li><p><strong>2022</strong> - <a
+href="https://doi.org/10.1016/j.econlet.2022.110964"
+target="_blank"><strong>Testing for state dependence in the
+fixed-effects ordered logit model</strong></a>, <strong><em>Economics
+Letters</em></strong> (joint with F. Bartolucci and C. Pigini) <a
+href="https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf"
+target="_blank"><em>[Working paper]</em></a></p></li>
+<li><p><strong>2022</strong> - <a
+href="https://doi.org/10.1007/s00181-022-02313-6"
+target="_blank"><strong>Conditional inference and bias reduction for
+partial effects estimation of fixed-effects logit models</strong></a>,
+<strong><em>Empirical Economics</em></strong> (joint with F. Bartolucci
+and C. Pigini) <a
+href="https://github.com/fravale/replication_ape_logit"
+target="_blank"><em>[Replication material]</em></a> <a
+href="https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf"
+target="_blank"><em>[Working Paper]</em></a></p></li>
+<li><p><strong>2021</strong> - <a
+href="https://doi.org/10.1007/s10614-021-10218-2"
+target="_blank"><strong>Recursive computation of the conditional
+probability function of the quadratic exponential model for binary panel
+data</strong></a>, <strong><em>Computational Economics</em></strong>
+(joint with F. Bartolucci and C. Pigini)</p></li>
+<li><p><strong>2021</strong> - <a
+href="http://www.accessecon.com/pubs/eb/default.aspx?topic=Abstract&amp;PaperID=EB-21-00637"
+target="_blank"><strong>Do Covid-19 mobility restrictions affect
+economic uncertainty in Italy? Evidence from a SVAR
+approach</strong></a>, <strong><em>Economics Bulletin</em></strong>
+(joint with C. Casoli and L. Pedini) <a
+href="http://www.accessecon.com/Pubs/EB/2021/Volume41/EB-21-V41-I4-P209.pdf"
+target="_blank"><em>[Download]</em></a></p></li>
 </ul>
 <p>
  
@@ -327,7 +380,10 @@ $(document).ready(function () {
 <div id="books" class="section level5">
 <h5><strong><em>- Books</em></strong></h5>
 <ul>
-<li><strong>(forthcoming)</strong> - <strong>Advances in maximum likelihood estimation of fixed-effects binary panel data models</strong> in <em>Trends and Challenges for Categorical Data Analysis</em>, Springer (joint with F. Bartolucci and C. Pigini)</li>
+<li><strong>(forthcoming)</strong> - <strong>Advances in maximum
+likelihood estimation of fixed-effects binary panel data models</strong>
+in <em>Trends and Challenges for Categorical Data Analysis</em>,
+Springer (joint with F. Bartolucci and C. Pigini)</li>
 </ul>
 <p>
  
@@ -340,10 +396,35 @@ $(document).ready(function () {
 <div id="software" class="section level3">
 <h3><strong>Software</strong></h3>
 <ul>
-<li><p><a href="https://cran.r-project.org/web/packages/cquad/index.html" target="_blank"><strong>cquad</strong></a>: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. <a href="https://www.r-project.org/" target="_blank">R</a> package.</p></li>
-<li><p><a href="https://ideas.repec.org/c/boc/bocode/s458852.html" target="_blank"><strong>cquadr</strong></a>: Stata module to estimate Quadratic Exponential models running the cquad R package. <a href="https://www.stata.com/" target="_blank">Stata</a> module. <a href="https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf" target="_blank">User’s Guide</a> and <a href="https://github.com/fravale/cquadr" target="_blank">code</a> are also available in my GitHub repository.</p></li>
-<li><p><a href="http://gretl.sourceforge.net/current_fnfiles/ketvals.zip"><strong>ketvals</strong></a>: Kernel-based Time-Varying Least Squares. <a href="http://gretl.sourceforge.net/" target="_blank">gretl</a> function package. <a href="http://gretl.sourceforge.net/current_fnfiles/unzipped/ketvals.pdf" target="_blank">Documentation</a> is available.</p></li>
-<li><p><a href="http://gretl.sourceforge.net/current_fnfiles/spm.zip"><strong>spm</strong></a>: Spatial Regression Models. <a href="http://gretl.sourceforge.net/" target="_blank">gretl</a> function package. A related <a href="http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33" target="_blank">article</a> and <a href="http://gretl.sourceforge.net/current_fnfiles/unzipped/spm.pdf" target="_blank">documentation</a> are available.</p></li>
+<li><p><a
+href="https://cran.r-project.org/web/packages/cquad/index.html"
+target="_blank"><strong>cquad</strong></a>: Conditional Maximum
+Likelihood for Quadratic Exponential Models for Binary Panel Data. <a
+href="https://www.r-project.org/" target="_blank">R</a>
+package.</p></li>
+<li><p><a href="https://ideas.repec.org/c/boc/bocode/s458852.html"
+target="_blank"><strong>cquadr</strong></a>: Stata module to estimate
+Quadratic Exponential models running the cquad R package. <a
+href="https://www.stata.com/" target="_blank">Stata</a> module. <a
+href="https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf"
+target="_blank">User’s Guide</a> and <a
+href="https://github.com/fravale/cquadr" target="_blank">code</a> are
+also available in my GitHub repository.</p></li>
+<li><p><a
+href="http://gretl.sourceforge.net/current_fnfiles/ketvals.zip"><strong>ketvals</strong></a>:
+Kernel-based Time-Varying Least Squares. <a
+href="http://gretl.sourceforge.net/" target="_blank">gretl</a> function
+package. <a
+href="http://gretl.sourceforge.net/current_fnfiles/unzipped/ketvals.pdf"
+target="_blank">Documentation</a> is available.</p></li>
+<li><p><a
+href="http://gretl.sourceforge.net/current_fnfiles/spm.zip"><strong>spm</strong></a>:
+Spatial Regression Models. <a href="http://gretl.sourceforge.net/"
+target="_blank">gretl</a> function package. A related <a
+href="http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33"
+target="_blank">article</a> and <a
+href="http://gretl.sourceforge.net/current_fnfiles/unzipped/spm.pdf"
+target="_blank">documentation</a> are available.</p></li>
 </ul>
 </div>
 
