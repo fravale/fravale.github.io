@@ -31,9 +31,11 @@ output:
 
 ##### ***-  Peer-Reviewed Articles***
 
-* **(forthcoming)** - **Kernel-based Time-Varying IV estimation: handle with care**, ***Empirical Economics*** (joint with R. Lucchetti) [*[Replication material]*](https://github.com/fravale/replication_gkm){target="_blank"} [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} 
+
 
 * **(forthcoming)** -  **MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit**, ***Econometric Reviews*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} 
+
+* **2023** - [**Kernel-based Time-Varying IV estimation: handle with care**](https://link.springer.com/article/10.1007/s00181-023-02450-6){target="_blank"}, ***Empirical Economics*** (joint with R. Lucchetti) [*[Replication material]*](https://github.com/fravale/replication_gkm){target="_blank"} [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} 
 
 * **2022** - [**Testing for state dependence in the fixed-effects
 ordered logit model**](https://doi.org/10.1016/j.econlet.2022.110964){target="_blank"}, ***Economics Letters*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf){target="_blank"}
