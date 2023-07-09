@@ -22,7 +22,7 @@ output:
 * [**Persistence of R&D intensities in the world’s top investors in R&D**](http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf){target="_blank"} (joint with C. Pigini and A. Sterlacchini)
 
 
-* **Specification testing with Grouped Fixed Effects** (joint with C. Pigini and A. Pionati)
+* [**Specification testing with Grouped Fixed Effects**](https://mpra.ub.uni-muenchen.de/117821/1/GFEtest_072023.pdf){target="_blank"} (joint with C. Pigini and A. Pionati)
 
 
 * **Testing for dependence in pairs of binary outcomes by an approximating logit model**
