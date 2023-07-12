@@ -50,7 +50,7 @@ ordered logit model**](https://doi.org/10.1016/j.econlet.2022.110964){target="_b
 <p>&nbsp;</p>
 
 ##### ***-  Books***
-* **(forthcoming)** - **Advances in maximum likelihood estimation of fixed-effects binary panel data models** in *Trends and Challenges for Categorical Data Analysis*, Springer (joint with F. Bartolucci and C. Pigini)  
+* **2023** - [**Advances in maximum likelihood estimation of fixed-effects binary panel data models**](https://link.springer.com/chapter/10.1007/978-3-031-31186-4_9){target="_blank"} in ***Trends and Challenges for Categorical Data Analysis***, Springer (joint with F. Bartolucci and C. Pigini)  
 
 <p>&nbsp;</p>
 
