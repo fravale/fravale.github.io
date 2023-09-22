@@ -1,0 +1,16 @@
+---
+title: 
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
+---
+
+
+
+### ***Materiale didattico***
+
+<p>&nbsp;</p>
+
+##### **Statistica per la ricerca sperimentale e tecnologica**
+* File di esempio [re](./mat_didattica/mat_SRST/readme.txt)

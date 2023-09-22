@@ -15,6 +15,8 @@ output:
 
 ##### ***-  Work in Progress***
 
+* **Linear models with time-varying parameters in gretl: comparing different approaches** (joint with R. Lucchetti)
+
 
 * [**Monetization, wars, and the Italian fiscal multiplier**](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (joint with M. Fratianni, F.Giri and R. Lucchetti) 
 
@@ -50,7 +52,7 @@ ordered logit model**](https://doi.org/10.1016/j.econlet.2022.110964){target="_b
 <p>&nbsp;</p>
 
 ##### ***-  Books***
-* **2023** - [**Advances in maximum likelihood estimation of fixed-effects binary panel data models**](https://link.springer.com/chapter/10.1007/978-3-031-31186-4_9){target="_blank"} in ***Trends and Challenges for Categorical Data Analysis***, Springer (joint with F. Bartolucci and C. Pigini)  
+* **2023** - [**Advances in maximum likelihood estimation of fixed-effects binary panel data models**](https://link.springer.com/chapter/10.1007/978-3-031-31186-4_9){target="_blank"} in ***Trends and Challenges for Categorical Data Analysis***, Springer (joint with F. Bartolucci and C. Pigini) [*[Replication material]*](https://github.com/fravale/replication_fe_dyn_logit){target="_blank"}
 
 <p>&nbsp;</p>
 

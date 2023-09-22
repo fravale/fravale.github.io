@@ -10,17 +10,22 @@ output:
 
 <p>&nbsp;</p>
 
-### **Teaching activity, A.Y. 2022/2023** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
+### **Teaching activity, A.Y. 2023/2024** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
+##### ***- Lecturer***
+* [Statistics for Experimental Research and Techology](https://guide.univpm.it/af.php?lang=lang-eng&af=127337){target="_blank"}, B.S. in Biomedical Laboratory Techniques, Marche Polytechnic University
 
+<p>&nbsp;</p>
+[//]: < [Materiale](material.html) >
+
+[//]: <
 ##### ***-  Teaching assistant***
-* “Economia Politica I” (Microeconomics),
-Bachelor’s Degree in Economics and Business, Marche Polytechnic University
-
+* "Econometric methods"
+(coordinator: [Prof. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University
 * “Microeconometrics”
 (coordinator: [Prof. Matteo Picchio](https://sites.google.com/site/matteopicchio/){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University
 * “Time Series Econometrics”
 (coordinator: [Prof. Giulio Palomba](http://utenti.dises.univpm.it/palomba/){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University
-
+>
 <p>&nbsp;</p>
 
 
@@ -36,11 +41,14 @@ Bachelor’s Degree in Economics and Business, Marche Polytechnic University
 
 Year                Candidate            Title                                                                           Supervisor          Co-Supervisor
 ------------        ------------------   ----------------------------------------------------------------------------    -----------------   -------------------
+**Ph.D.**
+03/2025*            Alessandro Pionati   TBA                                                                             Claudia Pigini      Francesco Valentini
 **Master's Degree** 
 2021/2022           Matteo Capriotti     La curva di Phillips dell'Eurozona: una stima semiparametrica time-varying      Federico Giri       Francesco Valentini
 2021/2022           Giovanni Ferretti    Sistemi di allerta precoce per crisi finanziarie                                Claudia Pigini      Francesco Valentini
 
 </table>
+
 
 
 
