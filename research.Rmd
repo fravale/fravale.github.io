@@ -15,44 +15,63 @@ output:
 
 ##### ***-  Work in Progress***
 
-* **Linear models with time-varying parameters in gretl: comparing different approaches** (joint with R. Lucchetti)
+* Linear models with time-varying parameters in gretl: comparing different approaches (with R. Lucchetti)
 
 
-* [**Monetization, wars, and the Italian fiscal multiplier**](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (joint with M. Fratianni, F.Giri and R. Lucchetti) 
+* [Monetization, wars, and the Italian fiscal multiplier](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (with M. Fratianni, F.Giri and R. Lucchetti) 
 
 
-* [**Persistence of R&D intensities in the world’s top investors in R&D**](http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf){target="_blank"} (joint with C. Pigini and A. Sterlacchini)
+* [Persistence of R&D intensities in the world’s top investors in R&D](http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf){target="_blank"} (with C. Pigini and A. Sterlacchini)
 
 
-* [**Specification testing with Grouped Fixed Effects**](https://mpra.ub.uni-muenchen.de/117821/1/GFEtest_072023.pdf){target="_blank"} (joint with C. Pigini and A. Pionati)
+* [Specification testing with Grouped Fixed Effects](http://arxiv.org/pdf/2310.01950){target="_blank"} (with C. Pigini and A. Pionati)
 
 
-* **Testing for dependence in pairs of binary outcomes by an approximating logit model**
+* Testing for dependence in pairs of binary outcomes by an approximating logit model
 
 <p>&nbsp;</p>
 
-##### ***-  Peer-Reviewed Articles***
+##### ***-  Peer-Reviewed Articles***   </span>
 
 
-
-* **(forthcoming)** -  **MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit**, ***Econometric Reviews*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} 
-
-* **2023** - [**Kernel-based Time-Varying IV estimation: handle with care**](https://link.springer.com/article/10.1007/s00181-023-02450-6){target="_blank"}, ***Empirical Economics*** (joint with R. Lucchetti) [*[Replication material]*](https://github.com/fravale/replication_gkm){target="_blank"} [*[Working paper]*](https://mpra.ub.uni-muenchen.de/110033/1/MPRA_paper_110033.pdf){target="_blank"} 
-
-* **2022** - [**Testing for state dependence in the fixed-effects
-ordered logit model**](https://doi.org/10.1016/j.econlet.2022.110964){target="_blank"}, ***Economics Letters*** (joint with F. Bartolucci and C. Pigini) [*[Working paper]*](https://mpra.ub.uni-muenchen.de/113890/1/MPRA_paper_113890.pdf){target="_blank"}
+* <ins>MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit</ins>
+  
+  ***Econometric Reviews***, (forthcoming), with F. Bartolucci and C. Pigini [(WP)](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} 
+<p>&nbsp;</p>
 
 
-* **2022** - [**Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models**](https://doi.org/10.1007/s00181-022-02313-6){target="_blank"},  ***Empirical Economics*** (joint with F. Bartolucci and C. Pigini) [*[Replication material]*](https://github.com/fravale/replication_ape_logit){target="_blank"} [*[Working Paper]*](https://mpra.ub.uni-muenchen.de/110031/1/MPRA_paper_110031.pdf){target="_blank"}
+* [<ins>Kernel-based Time-Varying IV estimation: handle with care</ins>](https://link.springer.com/article/10.1007/s00181-023-02450-6){target="_blank"}
+  
+  ***Empirical Economics***, 2023, with R. Lucchetti [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_gkm){target="_blank"} 
+<p>&nbsp;</p>
 
-* **2021** - [**Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data**](https://doi.org/10.1007/s10614-021-10218-2){target="_blank"}, ***Computational Economics*** (joint with F. Bartolucci and C. Pigini)    
 
-* **2021** - [**Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach**](http://www.accessecon.com/pubs/eb/default.aspx?topic=Abstract&PaperID=EB-21-00637){target="_blank"}, ***Economics Bulletin*** (joint with C. Casoli and L. Pedini) [*[Download]*](http://www.accessecon.com/Pubs/EB/2021/Volume41/EB-21-V41-I4-P209.pdf){target="_blank"}
+* [<ins>Testing for state dependence in the fixed-effects ordered logit model</ins>](https://doi.org/10.1016/j.econlet.2022.110964){target="_blank"}
+
+  ***Economics Letters***, 2022, with F. Bartolucci and C. Pigini
+<p>&nbsp;</p>
+
+* [<ins>Conditional inference and bias reduction for partial effects estimation of fixed-effects logit models</ins>](https://doi.org/10.1007/s00181-022-02313-6){target="_blank"}
+
+  ***Empirical Economics***, 2022, with F. Bartolucci and C. Pigini [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_ape_logit){target="_blank"} 
+<p>&nbsp;</p>
+
+* [<ins>Recursive computation of the conditional probability function of the quadratic exponential model for binary panel data</ins>](https://doi.org/10.1007/s10614-021-10218-2){target="_blank"}
+
+  ***Computational Economics***, 2021, with F. Bartolucci and C. Pigini    
+<p>&nbsp;</p>
+
+
+* [<ins>Do Covid-19 mobility restrictions affect economic uncertainty in Italy? Evidence from a SVAR approach</ins>](http://www.accessecon.com/pubs/eb/default.aspx?topic=Abstract&PaperID=EB-21-00637){target="_blank"}
+
+  ***Economics Bulletin***, 2021, with C. Casoli and L. Pedini [Download](http://www.accessecon.com/Pubs/EB/2021/Volume41/EB-21-V41-I4-P209.pdf){target="_blank"}
 
 <p>&nbsp;</p>
 
 ##### ***-  Books***
-* **2023** - [**Advances in maximum likelihood estimation of fixed-effects binary panel data models**](https://link.springer.com/chapter/10.1007/978-3-031-31186-4_9){target="_blank"} in ***Trends and Challenges for Categorical Data Analysis***, Springer (joint with F. Bartolucci and C. Pigini) [*[Replication material]*](https://github.com/fravale/replication_fe_dyn_logit){target="_blank"}
+* [<ins>Advances in maximum likelihood estimation of fixed-effects binary panel data models</ins>](https://link.springer.com/chapter/10.1007/978-3-031-31186-4_9){target="_blank"}
+
+  in ***Trends and Challenges for Categorical Data Analysis***, Springer, 2023, with F. Bartolucci and C. Pigini [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_fe_dyn_logit){target="_blank"}
 
 <p>&nbsp;</p>
 
@@ -65,6 +84,10 @@ ordered logit model**](https://doi.org/10.1016/j.econlet.2022.110964){target="_b
 * [**cquad**](https://cran.r-project.org/web/packages/cquad/index.html){target="_blank"}: Conditional Maximum Likelihood for Quadratic Exponential Models for Binary Panel Data. [R](https://www.r-project.org/){target="_blank"} package.
 
 * [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module. [User's Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository.
+
+* **fls**: Flexible Least Squares.
+[gretl](http://gretl.sourceforge.net/){target="_blank"} function package.
+(forthcoming)
 
 * [**ketvals**](http://gretl.sourceforge.net/current_fnfiles/ketvals.zip): Kernel-based Time-Varying Least Squares. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](http://gretl.sourceforge.net/current_fnfiles/unzipped/ketvals.pdf){target="_blank"} is available.
 
