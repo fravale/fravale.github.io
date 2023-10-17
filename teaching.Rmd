@@ -14,8 +14,8 @@ output:
 <p>&nbsp;</p>
 ##### ***- Lecturer***
   * [Statistics for Experimental and Technological Research](https://guide.univpm.it/af.php?lang=lang-eng&af=127337){target="_blank"},
-
-  B.S. Biomedical Laboratory Techniques, Marche Polytechnic University
+    
+    B.S. Biomedical Laboratory Techniques, Marche Polytechnic University
 
 <p>&nbsp;</p>
 ##### ***-  Teaching assistant***

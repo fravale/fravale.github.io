@@ -85,9 +85,8 @@ output:
 
 * [**cquadr**](https://ideas.repec.org/c/boc/bocode/s458852.html){target="_blank"}: Stata module to estimate Quadratic Exponential models running the cquad R package. [Stata](https://www.stata.com/){target="_blank"} module. [User's Guide](https://github.com/fravale/cquadr/blob/master/cquadr-guide.pdf){target="_blank"} and [code](https://github.com/fravale/cquadr){target="_blank"} are also available in my GitHub repository.
 
-* **fls**: Flexible Least Squares.
-[gretl](http://gretl.sourceforge.net/){target="_blank"} function package.
-(forthcoming)
+* [**FLS**](https://gretl.sourceforge.net/current_fnfiles/FLS.zip): Flexible Least Squares.
+[gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](https://gretl.sourceforge.net/current_fnfiles/unzipped/FLS.pdf) is available.  
 
 * [**ketvals**](http://gretl.sourceforge.net/current_fnfiles/ketvals.zip): Kernel-based Time-Varying Least Squares. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](http://gretl.sourceforge.net/current_fnfiles/unzipped/ketvals.pdf){target="_blank"} is available.
 
