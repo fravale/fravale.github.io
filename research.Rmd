@@ -18,7 +18,7 @@ output:
 * Linear models with time-varying parameters in gretl: comparing different approaches (with R. Lucchetti)
 
 
-* [Monetization, wars, and the Italian fiscal multiplier](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (with M. Fratianni, F.Giri and R. Lucchetti) 
+* [Monetization, wars, and the Italian fiscal multiplier](http://docs.dises.univpm.it/web/quaderni/pdfmofir/Mofir176.pdf){target="_blank"} (with M. Fratianni, F. Giri and R. Lucchetti) 
 
 
 * [Persistence of R&D intensities in the world’s top investors in R&D](http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf){target="_blank"} (with C. Pigini and A. Sterlacchini)
@@ -71,7 +71,7 @@ output:
 ##### ***-  Books***
 * [<ins>Advances in maximum likelihood estimation of fixed-effects binary panel data models</ins>](https://link.springer.com/chapter/10.1007/978-3-031-31186-4_9){target="_blank"}
 
-  in ***Trends and Challenges for Categorical Data Analysis***, Springer, 2023, with F. Bartolucci and C. Pigini [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_fe_dyn_logit){target="_blank"}
+  in ***Trends and Challenges in Categorical Data Analysis***, Springer, 2023, with F. Bartolucci and C. Pigini [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_fe_dyn_logit){target="_blank"}
 
 <p>&nbsp;</p>
 
