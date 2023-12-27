@@ -20,7 +20,7 @@ output:
 
 ### **Research Interests**
 
-Fixed Effects, Panel Data, Discrete outcomes, Network Econometrics, Applied Microeconometrics, Applied Time Series
+Panel Data, Fixed Effects, Discrete outcomes, Network Econometrics, Applied Microeconometrics, Applied Time Series
 
 <p>&nbsp;</p>
 
