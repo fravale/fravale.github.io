@@ -31,15 +31,19 @@ output:
 
 ##### ***-  Peer-Reviewed Articles***   </span>
 
-*  <ins>Linear models with time-varying parameters: a comparison of different approaches</ins>
-  ***Computational Statistics***, (forthcoming), with R. Lucchetti [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_tvp_gretl){target="_blank"} 
-<p>&nbsp;</p>
-
-
 * <ins>MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit</ins>
   
   ***Econometric Reviews***, (forthcoming), with F. Bartolucci and C. Pigini [(WP)](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} 
 <p>&nbsp;</p>
+
+
+*  [<ins>Linear models with time-varying parameters: a comparison of different approaches</ins>](https://link.springer.com/article/10.1007/s00180-023-01452-3){target="_blank"}
+  
+    ***Computational Statistics***,     2024, with R. Lucchetti [<i class="fa fa-github"></i>Code](https://github.com/fravale/replication_tvp_gretl){target="_blank"} 
+<p>&nbsp;</p>
+
+
+
 
 
 * [<ins>Kernel-based Time-Varying IV estimation: handle with care</ins>](https://link.springer.com/article/10.1007/s00181-023-02450-6){target="_blank"}
