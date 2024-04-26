@@ -31,9 +31,9 @@ output:
 
 ##### ***-  Peer-Reviewed Articles***   </span>
 
-* <ins>MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit</ins>
+* [<ins>MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit</ins>](https://doi.org/10.1080/07474938.2024.2339145){target="_blank"}
   
-  ***Econometric Reviews***, (forthcoming), with F. Bartolucci and C. Pigini [(WP)](https://mpra.ub.uni-muenchen.de/110034/1/MPRA_paper_110034.pdf){target="_blank"} 
+  ***Econometric Reviews***, 2024, with F. Bartolucci and C. Pigini [<i class="fa fa-github"></i>Code](https://github.com/fravale/mcmc_cml_replication){target="_blank"}
 <p>&nbsp;</p>
 
 
