@@ -16,13 +16,17 @@ output:
 <p>&nbsp;</p>
 <center>
 # Francesco Valentini
-### **Junior Assistant Professor of Statistics**
-### **[Department of Economic and Social Sciences](https://www.dises.univpm.it/){target="_blank"}**
-### **[Marche Polytechnic University](https://www.univpm.it/Entra/){target="_blank"}, Ancona, Italy ![](flag_ita.png){#id .class width=4% height=4%}**
+### **Assistant Professor of Econometrics**
+### **[Department of Economics and Management](https://www.ec.unipi.it/){target="_blank"}**
+### **[University of Pisa](https://www.unipi.it/){target="_blank"} ![](flag_ita.png){#id .class width=4% height=4%}**
 <center>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-# [<i class="fa fa-university"></i>](https://www.univpm.it/Entra/Docenti_1/Economia_7/docname/idsel/973/docname/FRANCESCO%20VALENTINI){target="_blank"}  \    [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}  \ [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} \ [<i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html){target="_blank"} \ [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-9986-1334){target="_blank"} \ [<i class="fab fa-researchgate"></i>](https://www.researchgate.net/profile/Francesco-Valentini-7){target="_blank"} \ [<i class="fa fa-github"></i>](https://github.com/fravale){target="_blank"} \ [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109/){target="_blank"}
+#  [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}  \ [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} \ [<i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html){target="_blank"} \ [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-9986-1334){target="_blank"} \ [<i class="fab fa-researchgate"></i>](https://www.researchgate.net/profile/Francesco-Valentini-7){target="_blank"} \ [<i class="fa fa-github"></i>](https://github.com/fravale){target="_blank"} \ [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109/){target="_blank"}
+
+<!---
+[<i class="fa fa-university"></i>](){target="_blank"}  \  
+-->
 
