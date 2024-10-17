@@ -41,7 +41,11 @@ output:
 
 ### **Email** <i class="fa fa-envelope"></i> 
 
+francesco.valentini@unipi.it
+
 valentini.f.90@gmail.com
+
+
 
 
 
@@ -93,7 +97,7 @@ TBA &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &
 
 ### **Address** <i class="fa fa-address-card"></i> 
 
-
+Università di Pisa,
 
 Dipartimento di Economia e Management,
 
