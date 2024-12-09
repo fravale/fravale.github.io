@@ -11,7 +11,7 @@ output:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <center>
-![](me5.jpg){#id .class width=35% height=35%}
+![](me5.jpg){#id .class width=45% height=45%}
 <center>
 <p>&nbsp;</p>
 <center>
@@ -24,9 +24,9 @@ output:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-#  [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}  \ [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} \ [<i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html){target="_blank"} \ [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-9986-1334){target="_blank"} \ [<i class="fab fa-researchgate"></i>](https://www.researchgate.net/profile/Francesco-Valentini-7){target="_blank"} \ [<i class="fa fa-github"></i>](https://github.com/fravale){target="_blank"} \ [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109/){target="_blank"}
+#  [<i class="fa fa-university"></i>](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=202257){target="_blank"}  \  [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}  \ [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} \ [<i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html){target="_blank"} \ [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-9986-1334){target="_blank"} \ [<i class="fab fa-researchgate"></i>](https://www.researchgate.net/profile/Francesco-Valentini-7){target="_blank"} \ [<i class="fa fa-github"></i>](https://github.com/fravale){target="_blank"} \ [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109/){target="_blank"}
 
 <!---
-[<i class="fa fa-university"></i>](){target="_blank"}  \  
+
 -->
 

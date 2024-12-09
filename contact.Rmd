@@ -108,7 +108,7 @@ Room 405
 
   </div>
   <div class="column" >
-<p>&nbsp;</p>
+
    ![](dem.jpg){#id .class width=70% height=70%}
   </div>
 

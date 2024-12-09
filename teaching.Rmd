@@ -13,19 +13,14 @@ output:
 ### **Teaching activities, A.Y. 2024/2025** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
 <p>&nbsp;</p>
 ##### ***- Lecturer***
-  * [Statistics for Experimental and Technological Research](https://guide.univpm.it/af.php?lang=lang-ita&af=148374){target="_blank"},
-    
-    B.S. Biomedical Laboratory Techniques, Marche Polytechnic University
+  * [Advanced Econometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2024/52905_697154_69360/2024/52908/10651?coorte=2024&schemaid=9209){target="_blank"},  M.S. in Economics, University of Pisa
+
+  * [Macroeconometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2024/52908_697521_79092/2024/52908/10651?coorte=2024&schemaid=9209){target="_blank"}, M.S. in Economics, University of Pisa
+
+
+  * [Statistics for Experimental and Technological Research](https://guide.univpm.it/af.php?lang=lang-ita&af=148374){target="_blank"},  B.S. Biomedical Laboratory Techniques, UNIVPM
 
 <p>&nbsp;</p>
-
-<!-- ##### ***-  Teaching assistant*** -->
-<!-- * "Econometric methods" -->
-<!-- (coordinator: [Prof. Claudia Pigini](https://www.univpm.it/Entra/Economia_7/docname/idsel/725/docname/CLAUDIA%20PIGINI){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University -->
-<!-- * “Microeconometrics” -->
-<!-- (coordinator: [Prof. Matteo Picchio](https://sites.google.com/site/matteopicchio/){target="_blank"}), Ph.D. in Economics, Marche Polytechnic University -->
-
-<!-- <p>&nbsp;</p> -->
 
 
 
