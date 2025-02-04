@@ -30,9 +30,9 @@ output:
 
 ##### ***-  Peer-Reviewed Articles***   </span>
 
-* [Monetization and the fiscal multiplier](){target="_blank"}
+* [<ins>Monetization and the Fiscal Multiplier</ins>](https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12658){target="_blank"}
 
-  ***Oxford Bulletin of Economics and Statistics***, forthcoming, with M. Fratianni, F. Giri and R. Lucchetti
+  ***Oxford Bulletin of Economics and Statistics***, 2025, with M. Fratianni, F. Giri and R. Lucchetti
   <p>&nbsp;</p>
 
 * [<ins>MCMC Conditional Maximum Likelihood for the two-way fixed-effects logit</ins>](https://doi.org/10.1080/07474938.2024.2339145){target="_blank"}
