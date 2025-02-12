@@ -21,7 +21,7 @@ output:
 * [Specification testing with Grouped Fixed Effects](http://arxiv.org/pdf/2310.01950){target="_blank"} (with C. Pigini and A. Pionati)
 
 
-* Grouped fixed effects regularization for binary choice models (with C. Pigini and A. Pionati)
+* [Grouped fixed effects regularization for binary choice models](https://arxiv.org/pdf/2502.06446){target="_blank"} (with C. Pigini and A. Pionati)
 
 
 * Testing for dependence in pairs of binary outcomes by an approximating logit model
