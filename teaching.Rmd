@@ -37,7 +37,7 @@ Year                Candidate                 Title                             
 ------------        -----------------------   ----------------------------------------------------------------------------    -----------------   -------------------
 **Ph.D.**
 03/2027*            Marie Juliette Lizzardi   TBA                                                                             Claudia Pigini      Francesco Valentini
-03/2025*            Alessandro Pionati        Three essays on panel data models with grouped fixed effects                    Claudia Pigini      Francesco Valentini
+03/2025             Alessandro Pionati        Three essays on panel data models with grouped fixed effects                    Claudia Pigini      Francesco Valentini
 * = expected
 **Master's Degree** 
 2021/2022           Matteo Capriotti          La curva di Phillips dell'Eurozona: una stima semiparametrica time-varying      Federico Giri       Francesco Valentini
