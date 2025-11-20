@@ -15,8 +15,6 @@ output:
 
 ##### ***-  Work in Progress***
 
-* [Persistence of R&D intensities in the world’s top investors in R&D](http://docs.dises.univpm.it/web/quaderni/pdf/480.pdf){target="_blank"} (with C. Pigini and A. Sterlacchini)
-
 
 * [Specification testing with Grouped Fixed Effects](http://arxiv.org/pdf/2310.01950){target="_blank"} (with C. Pigini and A. Pionati)
 
@@ -29,6 +27,12 @@ output:
 <p>&nbsp;</p>
 
 ##### ***-  Peer-Reviewed Articles***   </span>
+
+
+* [Persistence of R&D intensities in the world’s top investors in R&D](){target="_blank"}
+
+  ***Economics of Innovation and New Technology***, forthcoming, with C. Pigini and A. Sterlacchini
+  <p>&nbsp;</p>
 
 * [<ins>Monetization and the Fiscal Multiplier</ins>](https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12658){target="_blank"}
 

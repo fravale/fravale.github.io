@@ -47,10 +47,10 @@ output:
   </div>
   <div class="column" >
 <div style="text-align: left">
-# Francesco Valentini
-### **Assistant Professor of Econometrics**
-### **[Department of Economics and Management](https://www.ec.unipi.it/){target="_blank"}**
-### **[University of Pisa](https://www.unipi.it/){target="_blank"} ![](flag_ita.png){#id .class width=5% height=5%}**
+## **Francesco Valentini**
+### Assistant Professor of Econometrics
+### [Department of Economics and Management](https://www.ec.unipi.it/){target="_blank"}
+### [University of Pisa](https://www.unipi.it/){target="_blank"} ![](unipi_logo.png){#id .class width=10% height=10%} ![](flag_ita.png){#id .class width=7% height=7%}
 </div>
   </div>
 
@@ -66,7 +66,53 @@ output:
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-#  [<i class="fa fa-university"></i>](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=202257){target="_blank"}  \  [<i class="fa fa-envelope"></i>](contact.html) \  [<i class="fa fa-skype"></i>](https://join.skype.com/invite/dG5n5L4TXASL){target="_blank"}  \ [<i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it&oi=sra){target="_blank"} \ [<i class="ai ai-ideas-repec"></i>](https://ideas.repec.org/f/pva895.html){target="_blank"} \ [<i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-9986-1334){target="_blank"} \ [<i class="fab fa-researchgate"></i>](https://www.researchgate.net/profile/Francesco-Valentini-7){target="_blank"} \ [<i class="fa fa-github"></i>](https://github.com/fravale){target="_blank"} \ [<i class="fa fa-linkedin"></i>](https://www.linkedin.com/in/francesco-valentini-36a7bb109/){target="_blank"}
+
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; padding:15px;">
+
+  <!-- University -->
+  <a href="https://www.unipi.it/ateneo/organizzazione/persone/francesco-valentini-202257/" target="_blank">
+    <img src="unipi_logo.png" width="32" height="32">
+  </a>
+
+  <!-- Email -->
+  <a href="contact.html">
+    <i class="fa-solid fa-envelope" style="font-size:32px;"></i>
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=9AqXyqQAAAAJ&hl=it" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlescholar" width="32" height="32" alt="Google Scholar">
+  </a>
+
+  <!-- IDEAS / RePEc -->
+  <a href="https://ideas.repec.org/f/pva895.html" target="_blank">
+    <i class="ai ai-ideas-repec" style="font-size:32px; color:#FF6600;"></i>
+  </a>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0000-0001-9986-1334" target="_blank">
+    <img src="https://cdn.simpleicons.org/orcid" width="32" height="32" alt="ORCID">
+  </a>
+
+
+  <!-- ResearchGate -->
+  <a href="https://www.researchgate.net/profile/Francesco-Valentini-7" target="_blank">
+    <img src="https://cdn.simpleicons.org/researchgate" width="32" height="32" alt="ResearchGate">
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/fravale" target="_blank">
+    <img src="https://cdn.simpleicons.org/github" width="32" height="32" alt="GitHub">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/francesco-valentini-36a7bb109/" target="_blank">
+  <i class="fa-brands fa-linkedin" style="font-size:32px;"></i>
+   </a>
+
+
+
+</div>
 
 <center>
 
