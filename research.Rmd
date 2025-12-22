@@ -29,9 +29,9 @@ output:
 ##### ***-  Peer-Reviewed Articles***   </span>
 
 
-* [Persistence of R&D intensities in the world’s top investors in R&D](){target="_blank"}
+* [<ins>Persistence of R&D intensities in the world’s top investors in R&D</ins>](https://www.tandfonline.com/doi/full/10.1080/10438599.2025.2595205){target="_blank"}
 
-  ***Economics of Innovation and New Technology***, forthcoming, with C. Pigini and A. Sterlacchini
+  ***Economics of Innovation and New Technology***, 2025, with C. Pigini and A. Sterlacchini
   <p>&nbsp;</p>
 
 * [<ins>Monetization and the Fiscal Multiplier</ins>](https://onlinelibrary.wiley.com/doi/full/10.1111/obes.12658){target="_blank"}

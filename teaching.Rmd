@@ -13,12 +13,13 @@ output:
 ### **Teaching activities, A.Y. 2024/2025** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
 <p>&nbsp;</p>
 ##### ***- Lecturer***
-  * [Advanced Econometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53131_703943_69360/2025/53133/11486?coorte=2025&schemaid=9383){target="_blank"},  M.S. in Economics, University of Pisa
+  * [Advanced Econometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53131_703943_69360/2025/53133_9383/11486?schemaid=9383){target="_blank"},  M.S. in Economics, University of Pisa
 
-  * [Macroeconometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2024/52908_697521_79092/2024/52908/10651?coorte=2024&schemaid=9209){target="_blank"}, M.S. in Economics, University of Pisa
+  * [Macroeconometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/52907_697179_79092/2024/52907/10651?coorte=2024){target="_blank"}, M.S. in Economics, University of Pisa
 
 
 <p>&nbsp;</p>
+
 
 
 
