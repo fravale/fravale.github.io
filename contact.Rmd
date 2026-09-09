@@ -43,10 +43,6 @@ output:
 
 francesco.valentini@unipi.it
 
-valentini.f.90@gmail.com
-
-
-
 
 
 <p>&nbsp;</p>

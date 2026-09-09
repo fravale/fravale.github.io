@@ -100,6 +100,9 @@ output:
 * [**FLS**](https://gretl.sourceforge.net/current_fnfiles/FLS.zip): Flexible Least Squares.
 [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](https://gretl.sourceforge.net/current_fnfiles/unzipped/FLS.pdf) is available.  
 
+* [**GFE**](https://gretl.sourceforge.net/current_fnfiles/GFE.zip): Grouped Fixed Effects for panel data.
+[gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](https://gretl.sourceforge.net/current_fnfiles/unzipped/GFE.pdf) is available.  
+
 * [**ketvals**](http://gretl.sourceforge.net/current_fnfiles/ketvals.zip): Kernel-based Time-Varying Least Squares. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. [Documentation](http://gretl.sourceforge.net/current_fnfiles/unzipped/ketvals.pdf){target="_blank"} is available.
 
 * [**spm**](http://gretl.sourceforge.net/current_fnfiles/spm.zip): Spatial Regression Models. [gretl](http://gretl.sourceforge.net/){target="_blank"} function package. A related [article](http://www.fedoa.unina.it/12338/1/GRETL2019.pdf#page=33){target="_blank"} and [documentation](http://gretl.sourceforge.net/current_fnfiles/unzipped/spm.pdf){target="_blank"} are available.

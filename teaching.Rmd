@@ -10,7 +10,7 @@ output:
 
 <p>&nbsp;</p>
 
-### **Teaching activities, A.Y. 2024/2025** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
+### **Teaching activities** <font size=4>  ***(past positions are reported in the [CV](CV.html))*** </font> 
 <p>&nbsp;</p>
 ##### ***- Lecturer***
   * [Advanced Econometrics](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53131_703943_69360/2025/53133_9383/11486?schemaid=9383){target="_blank"},  M.S. in Economics, University of Pisa
@@ -25,25 +25,69 @@ output:
 
 ### ***Theses supervision***
 
-
-
-
+<p>&nbsp;</p>
 <table>
+### Ph.D.
 
+| Year | Candidate | Title | Supervisor | Co-Supervisor |
+|:-----|:----------|:------|:-----------|:--------------|
+| 03/2027* | Marie Juliette Lizzardi | TBA | Claudia Pigini | Francesco Valentini |
+| 03/2025 | Alessandro Pionati | Three essays on panel data models with grouped fixed effects | Claudia Pigini | Francesco Valentini |
 
+### Master's Degree
 
-Year                Candidate                 Title                                                                           Supervisor          Co-Supervisor
-------------        -----------------------   ----------------------------------------------------------------------------    -----------------   -------------------
-**Ph.D.**
-03/2027*            Marie Juliette Lizzardi   TBA                                                                             Claudia Pigini      Francesco Valentini
-03/2025             Alessandro Pionati        Three essays on panel data models with grouped fixed effects                    Claudia Pigini      Francesco Valentini
-* = expected
-**Master's Degree** 
-2021/2022           Matteo Capriotti          La curva di Phillips dell'Eurozona: una stima semiparametrica time-varying      Federico Giri       Francesco Valentini
-2021/2022           Giovanni Ferretti         Sistemi di allerta precoce per crisi finanziarie                                Claudia Pigini      Francesco Valentini
+| Year | Candidate | Title | Supervisor | Co-Supervisor |
+|:-----|:----------|:------|:-----------|:--------------|
+| 2025/2026 | Andrea Menconi | Accurate real yield estimation in the Euro Area accounting for seasonality and indexation lag | Francesco Valentini | |
+| 2021/2022 | Matteo Capriotti | La curva di Phillips dell'Eurozona: una stima semiparametrica time-varying | Federico Giri | Francesco Valentini |
+| 2021/2022 | Giovanni Ferretti | Sistemi di allerta precoce per crisi finanziarie | Claudia Pigini | Francesco Valentini |
 
+*Expected.
 </table>
 
 
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
 
+table th,
+table td {
+  border: none;
+  padding: 8px 12px;
+  vertical-align: top;
+}
 
+table th {
+  border-bottom: 1px solid #999;
+  font-weight: 600;
+}
+
+/* Larghezze delle colonne */
+table th:nth-child(1),
+table td:nth-child(1) {
+  width: 10%;
+  white-space: nowrap;
+}
+
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 18%;
+}
+
+table th:nth-child(3),
+table td:nth-child(3) {
+  width: 47%;
+}
+
+table th:nth-child(4),
+table td:nth-child(4) {
+  width: 13%;
+}
+
+table th:nth-child(5),
+table td:nth-child(5) {
+  width: 12%;
+}
+</style>
